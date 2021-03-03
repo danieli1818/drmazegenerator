@@ -1,0 +1,10 @@
+name: DRMazeGenerator
+version: ${project.version}
+main: me.danieli1818.drmazegenerator.DRMazeGenerator
+authors: [DanielRottner]
+description: DR Maze Generator Plugin.
+api-version: 1.12
+
+commands:
+    drmazegenerator:
+        description: shows help page.
